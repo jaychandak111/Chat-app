@@ -11,6 +11,10 @@ Creation of Chat Room
 Chat Room Page
 ![React App and 8 more pages - Personal - Microsoft​ Edge 7_27_2022 10_13_12 PM](https://user-images.githubusercontent.com/70700032/181305622-431f7df8-6659-4206-97fb-f88f8b740d3c.png)
 
+I have deployed my project on this website
+
+chattingplatform.netlify.app
+
 
 
 
